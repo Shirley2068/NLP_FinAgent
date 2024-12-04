@@ -293,7 +293,7 @@ python-crfsuite==0.9.8
 python-dateutil==2.9.0.post0
 python-dotenv==1.0.1
 python-json-logger==2.0.7
-python-multipart==0.0.9
+python-multipart==0.0.18
 python-rapidjson==1.18
 python-stdnum==1.20
 pytorch-forecasting==1.0.0
