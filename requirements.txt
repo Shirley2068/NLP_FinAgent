@@ -36,9 +36,7 @@ botocore==1.34.139
 bs4==0.0.1
 build==1.2.1
 cachetools==5.2.1
-celery==5.0.4
-# 原本的版本
-# celery==5.0.5
+celery==5.0.5
 certifi==2020.6.20
 cffi==1.16.0
 chardet==3.0.4
