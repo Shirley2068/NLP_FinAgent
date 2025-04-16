@@ -69,7 +69,9 @@ Cython==3.0.10
 dask==2024.1.1
 dask-cuda==24.4.0
 dask-expr==0.4.0
-dataclasses-json==0.6.7
+dataclasses-json
+# 原本的
+# dataclasses-json==0.6.7
 dataprep==0.4.5
 debugpy==1.8.1
 decorator==5.1.1
